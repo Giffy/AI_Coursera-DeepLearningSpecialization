@@ -1,0 +1,1 @@
+Required libreries for assignations
