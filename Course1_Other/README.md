@@ -50,3 +50,29 @@ You will learn how to:
      Use units with a non-linear activation function, such as tanh
      Compute the cross entropy loss
      Implement forward and backward propagation
+     
+     
+## Week 4 assignment (part 1 of 2)
+
+### Building your Deep Neural Network: Step by Step
+
+    In this notebook, you will implement all the functions required to build a deep neural network.
+    In the next assignment, you will use these functions to build a deep neural network for image classification.
+
+After this assignment you will be able to:
+
+    Use non-linear units like ReLU to improve your model
+    Build a deeper neural network (with more than 1 hidden layer)
+    Implement an easy-to-use neural network class
+
+## Week 4 assignment (part 2 of 2)
+
+### Deep Neural Network for Image Classification: Application
+
+When you finish this, you will have finished the last programming assignment of Week 4, and also the last programming assignment of this course!
+
+You will use use the functions you'd implemented in the previous assignment to build a deep network, and apply it to cat vs non-cat classification. Hopefully, you will see an improvement in accuracy relative to your previous logistic regression implementation.
+
+After this assignment you will be able to:
+
+    Build and apply a deep neural network to supervised learning.
